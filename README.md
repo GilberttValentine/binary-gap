@@ -7,9 +7,9 @@ For example, if N = 1041, the function should return 5, because N has binary rep
 
 Assume that:
 
-    * **N is an integer within the range [1..2,147,483,647].**
+* **N is an integer within the range [1..2,147,483,647].**
 
 Complexity:
 
-    * **expected worst-case time complexity is O(log(N))**
-    * **expected worst-case space complexity is O(1)**
+* **expected worst-case time complexity is O(log(N))**
+* * **expected worst-case space complexity is O(1)**
